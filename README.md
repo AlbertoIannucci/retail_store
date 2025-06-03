@@ -45,6 +45,8 @@ Questo progetto mostra un processo completo di **data cleaning**, **trasformazio
 - **Segmentazione clienti**: Champions, Loyal, At Risk  
 - **ROI stimato**: x3.2 su 12 mesi
 
-## 🖼️ Screenshot
+## 🔒 Licenza
+
+Distribuito sotto licenza MIT. Vedi il file `LICENSE` per maggiori dettagli.
 
 
