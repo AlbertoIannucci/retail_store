@@ -1,4 +1,4 @@
-## 🗄️ Cartella `database/` – Progettazione del Database Relazionale
+## 🗄️ Progettazione del Database Relazionale
 
 Questa cartella contiene gli asset relativi al **modello relazionale** utilizzato per ospitare i dati del progetto nel database MySQL.
 
