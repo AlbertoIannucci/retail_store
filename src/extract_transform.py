@@ -70,7 +70,7 @@ class DatasetCleaner(ModelloBase):
 
 # Estrazione dataset
 modello = DatasetCleaner("../Dataset/dataset.csv")
-# Traformazione
+# Trasformazione
 # Passo 1. Analisi generali del dataset
 #modello.analisi_generali(modello.dataframe)
 # Risultati:
