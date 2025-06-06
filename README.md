@@ -7,7 +7,7 @@ Questo progetto mostra un processo completo di **data cleaning**, **trasformazio
 - `extract_transform.py`: Script per il caricamento e la pulizia del dataset originale (CSV), con gestione dei missing values e trasformazioni.
 - `load.py`: Script per il caricamento dei dati nel database MySQL, incluse le tabelle di decodifica e la tabella principale.
 - `report_retail_store.pdf`: Report finale con insight e raccomandazioni strategiche basate sui dati.
-- `db_schema.png` *(opzionale)*: Diagramma E-R o schema del database relazionale.
+- `db_schema.png`: Diagramma E-R.
 
 ## 🧰 Tecnologie utilizzate
 
